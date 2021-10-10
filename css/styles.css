@@ -25,6 +25,18 @@ p {
 }
 
 
+/* Sections */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+
 /* Headings */
 
 .big-heading {
@@ -70,8 +82,6 @@ p {
 /* Tittle Section */
 
 #title {
-    background-color: #ff4c68;
-    color: #fff;
     text-align: left;
 }
 
@@ -94,7 +104,6 @@ p {
 
 #features {
     position: relative;
-    background-color: #fff;
 }
 
 .feature-title {
@@ -164,11 +173,6 @@ p {
 
 
 /* CTA Section */
-
-#cta {
-    color: #fff;
-    background-color: #ff4c68;
-}
 
 
 /* Footer Section */
